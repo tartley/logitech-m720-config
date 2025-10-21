@@ -11,6 +11,12 @@ This script is created for personal use only and may or may not work for your de
 
 # How to Use
 
+## Prerequisites
+
+```bash
+sudo apt install libcairo2-dev libgirepository-2.0-dev # ubuntu 25.04
+```
+
 ## Installation
 
 Clone the repository and install this package with pip:
